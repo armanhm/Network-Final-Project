@@ -1,0 +1,5 @@
+Start Router Log for: 5
+UDP Port: 5010
+Router Address: 127.0.0.7
+Forwarding Table: 
+[['5', '0', '4'], ['5', '1', '1'], ['5', '2', '4'], ['5', '3', '4'], ['5', '4', '4']]
